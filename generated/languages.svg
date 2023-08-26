@@ -132,7 +132,7 @@ div.ellipsis {
 
 <div>
 <span class="progress">
-<span style="background-color: #3178c6;width: 82.380%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 5.959%;" class="progress-item"></span><span style="background-color: #f34b7d;width: 5.089%;" class="progress-item"></span><span style="background-color: #3572A5;width: 3.115%;" class="progress-item"></span><span style="background-color: #555555;width: 2.691%;" class="progress-item"></span><span style="background-color: #b07219;width: 0.631%;" class="progress-item"></span><span style="background-color: #89e051;width: 0.136%;" class="progress-item"></span>
+<span style="background-color: #3178c6;width: 82.389%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 5.955%;" class="progress-item"></span><span style="background-color: #f34b7d;width: 5.086%;" class="progress-item"></span><span style="background-color: #3572A5;width: 3.113%;" class="progress-item"></span><span style="background-color: #555555;width: 2.689%;" class="progress-item"></span><span style="background-color: #b07219;width: 0.631%;" class="progress-item"></span><span style="background-color: #89e051;width: 0.136%;" class="progress-item"></span>
 </span>
 </div>
 
@@ -144,7 +144,7 @@ div.ellipsis {
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">TypeScript</span>
-<span class="percent">82.38%</span>
+<span class="percent">82.39%</span>
 </li>
 
 
@@ -171,7 +171,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">Python</span>
-<span class="percent">3.12%</span>
+<span class="percent">3.11%</span>
 </li>
 
 

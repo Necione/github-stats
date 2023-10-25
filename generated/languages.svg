@@ -132,7 +132,7 @@ div.ellipsis {
 
 <div>
 <span class="progress">
-<span style="background-color: #3178c6;width: 84.443%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 5.261%;" class="progress-item"></span><span style="background-color: #f34b7d;width: 4.493%;" class="progress-item"></span><span style="background-color: #3572A5;width: 2.750%;" class="progress-item"></span><span style="background-color: #555555;width: 2.376%;" class="progress-item"></span><span style="background-color: #b07219;width: 0.557%;" class="progress-item"></span><span style="background-color: #89e051;width: 0.120%;" class="progress-item"></span>
+<span style="background-color: #3178c6;width: 84.473%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 5.251%;" class="progress-item"></span><span style="background-color: #f34b7d;width: 4.484%;" class="progress-item"></span><span style="background-color: #3572A5;width: 2.745%;" class="progress-item"></span><span style="background-color: #555555;width: 2.371%;" class="progress-item"></span><span style="background-color: #b07219;width: 0.556%;" class="progress-item"></span><span style="background-color: #89e051;width: 0.120%;" class="progress-item"></span>
 </span>
 </div>
 
@@ -144,7 +144,7 @@ div.ellipsis {
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">TypeScript</span>
-<span class="percent">84.44%</span>
+<span class="percent">84.47%</span>
 </li>
 
 
@@ -153,7 +153,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">JavaScript</span>
-<span class="percent">5.26%</span>
+<span class="percent">5.25%</span>
 </li>
 
 
@@ -162,7 +162,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">C++</span>
-<span class="percent">4.49%</span>
+<span class="percent">4.48%</span>
 </li>
 
 
@@ -180,7 +180,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">C</span>
-<span class="percent">2.38%</span>
+<span class="percent">2.37%</span>
 </li>
 
 
